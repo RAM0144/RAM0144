@@ -1,11 +1,18 @@
-  Hey! Nice to see you.
- 
-   Welcome to my page!
- 
-   I'm RamKumar,
-   
-- 🌱 I’m currently learning Full Stack Development...
-- 👯 I’m looking to collaborate on Web Development...
-- things I code with
---> HTML - CSS - JavaScript - React - Node.js - Express.js - MongoDB
+  # Hi 👋 I'm Ramkumar
+
+💻 MERN Stack Developer  
+🚀 Learning Next.js & TypeScript  
+📍 India  
+
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- React, Node.js, Express
+- MongoDB, SQL
+
+## 📌 Projects
+- WeddingWise (Event App)
+- E-commerce App
+
+## 📫 Contact
+- Email: ram440163@gmail.com     
 
