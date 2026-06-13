@@ -1,18 +1,18 @@
   # Hi 👋 I'm Ramkumar
 
-💻 MERN Stack Developer  
+💻 MERN Full Stack Developer  
 🚀 Learning Next.js & TypeScript  
 📍 India  
 
 ## 🔧 Skills
-- HTML, CSS, JavaScript
-- React, Node.js, Express
-- MongoDB, SQL
+- HTML, CSS, Bootstrap, Tailwind CSS, JavaScript
+- React, Next.js, Node.js, Express
+- MongoDB, SQL, PostgreSQL
 
 ## 📌 Projects
-- WeddingWise (Event App)
+- Job Board App
 - E-commerce App
 
 ## 📫 Contact
-- Email: ram440163@gmail.com     
+- Email: ramkumarkrishnan3@gmail.com | ram440163@gmail.com     
 
