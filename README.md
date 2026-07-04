@@ -1,13 +1,13 @@
   # Hi 👋 I'm Ramkumar
 
 💻 MERN Full Stack Developer  
-🚀 Learning Next.js & TypeScript  
+🚀 Learning TypeScript, Docker, CI/CD (GitHub Actions)
 📍 India  
 
 ## 🔧 Skills
 - HTML, CSS, Bootstrap, Tailwind CSS, JavaScript
 - React, Next.js, Node.js, Express
-- MongoDB, SQL, PostgreSQL
+- MongoDB, Mongoose, SQL, PostgreSQL
 
 ## 📌 Projects
 - Job Board App
