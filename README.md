@@ -2,7 +2,6 @@
 
 💻 MERN Full Stack Developer  
 🚀 Learning TypeScript, Docker, CI/CD (GitHub Actions)
-📍 India  
 
 ## 🔧 Skills
 - HTML, CSS, Bootstrap, Tailwind CSS, JavaScript
